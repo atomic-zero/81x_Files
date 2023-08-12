@@ -1,2 +1,1 @@
-# 81x_Files
-Automation scripts and weird/old/useless stuffs
+# A collection of my old scripts and tools.
